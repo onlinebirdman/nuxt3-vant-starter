@@ -1,0 +1,19 @@
+html,
+body {
+  width: 100%;
+}
+
+#app {
+  font-family: "PingFang SC", sans-serif;
+  color      : #2c3e50;
+  font-size  : 32px;
+
+  /* line-height: 1; */
+}
+
+* {
+  padding    : 0;
+  margin     : 0;
+  box-sizing : border-box;
+  user-select: none;
+}
